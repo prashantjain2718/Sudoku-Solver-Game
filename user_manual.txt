@@ -1,0 +1,71 @@
+===================================================================
+                SUDOKU SOLVER & GAME - USER MANUAL
+===================================================================
+
+1. GETTING STARTED
+------------------
+   1. Open the "index.html" file in your web browser.
+   2. You will be greeted by a Login Modal.
+   3. Enter your name in the text box.
+   4. Press "Enter" on your keyboard OR click the "Login & Play" button.
+   
+   Note: Your progress and best times are saved automatically to your 
+   browser based on the username you enter.
+
+2. THE INTERFACE
+----------------
+   - Sidebar (Left/Top): Contains all Game Controls and your Best Times.
+   - Main Area (Center): The Sudoku Grid and the Timer.
+   - Footer (Bottom): Project Submission details and Team Member list.
+   - Header (Top Right): Logout button and Theme Toggle (Moon/Sun icon).
+
+3. PLAYING THE GAME (MANUAL MODE)
+---------------------------------
+   1. Go to the "Game Controls" panel in the sidebar.
+   2. Select a Difficulty: 
+      - Easy (More clues provided)
+      - Medium (Balanced)
+      - Hard (Few clues provided)
+   3. Click the "Generate Puzzle" button. 
+      - The grid will fill with a new puzzle.
+      - The Timer will start automatically.
+   4. Click on any empty cell in the grid and type a number (1-9).
+   5. If you solve the puzzle correctly, the timer stops, your score is 
+      saved, and confetti will pop!
+
+4. USING THE AUTOMATIC SOLVER
+-----------------------------
+   If you are stuck or want to see the algorithm in action:
+   
+   1. Visual Solve:
+      - Select a "Solver Speed" (Slow, Normal, Fast).
+      - Click "Solve (Visual)".
+      - Watch as the algorithm tries numbers (Blue cells) and 
+        backtracks when it hits a dead end (Yellow cells).
+   
+   2. Instant Solve:
+      - Click "Skip Visualization".
+      - The board will be solved instantly.
+
+   3. Stop Solver:
+      - Click the "Stop" button to pause the visualization.
+
+5. OTHER CONTROLS
+-----------------
+   - Reset: Clears the board and resets the timer to 00:00.
+   - Dark Mode: Click the Moon icon 🌙 in the top right corner to switch 
+     to a dark theme (easier on the eyes). Click the Sun ☀️ to switch back.
+   - Logout: Click "Logout" in the header to switch users.
+
+6. TROUBLESHOOTING
+------------------
+   - "Invalid Sudoku" Toast Message: This appears if you try to run the 
+     solver on a board that already has conflicting numbers (e.g., two 5s 
+     in the same row). Use "Reset" or fix the duplicate numbers manually.
+   - Layout Issues on Mobile: The app is designed to be responsive. On 
+     mobile devices, the controls will move above the puzzle for easier access.
+
+===================================================================
+Developed by: Mayank, Mohit, Palak, Prabhash, and Prashant.
+Arya College of Engineering and IT.
+===================================================================
