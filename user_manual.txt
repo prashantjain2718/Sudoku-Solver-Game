@@ -4,7 +4,12 @@
 
 1. GETTING STARTED
 ------------------
+   Option A (Online):
+   1. Visit the live link: https://sudoku-solver-game-nu.vercel.app/
+   
+   Option B (Local File):
    1. Open the "index.html" file in your web browser.
+
    2. You will be greeted by a Login Modal.
    3. Enter your name in the text box.
    4. Press "Enter" on your keyboard OR click the "Login & Play" button.
@@ -14,7 +19,8 @@
 
 2. THE INTERFACE
 ----------------
-   - Sidebar (Left/Top): Contains all Game Controls and your Best Times.
+   - Sidebar (Left on Desktop / Top on Mobile): Contains all Game 
+     Controls and your Best Times.
    - Main Area (Center): The Sudoku Grid and the Timer.
    - Footer (Bottom): Project Submission details and Team Member list.
    - Header (Top Right): Logout button and Theme Toggle (Moon/Sun icon).
