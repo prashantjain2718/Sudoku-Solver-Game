@@ -2,6 +2,9 @@
 
 A web-based application that combines a fully playable Sudoku game with a smart, visualizing solver algorithm. This project demonstrates the implementation of the **Backtracking Algorithm** for solving constraint satisfaction problems, wrapped in a modern, responsive user interface.
 
+## 🌐 Live Demo
+You can play the game online here: **[https://sudoku-solver-game-nu.vercel.app/](https://sudoku-solver-game-nu.vercel.app/)**
+
 ## 📋 Project Overview
 
 * **Project Type:** Problem Based Learning (PBL)
@@ -36,7 +39,7 @@ A web-based application that combines a fully playable Sudoku game with a smart,
 * **JavaScript (ES6+):** Game logic, Backtracking algorithm, DOM manipulation, LocalStorage management.
 * **No External Libraries:** Built entirely with vanilla technologies for maximum performance and learning demonstration.
 
-## 🚀 How to Run
+## 🚀 How to Run Locally
 
 1.  Download the `index.html` file.
 2.  Open the file in any modern web browser (Chrome, Edge, Firefox, Safari).
