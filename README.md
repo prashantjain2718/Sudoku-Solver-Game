@@ -12,7 +12,7 @@ Play the game online: **[https://sudoku-solver-game-nu.vercel.app/](https://sudo
 ## 📋 Project Overview
 
 * **Project Type:** Problem Based Learning (PBL)
-* **Department:** Computer Science and Engineering
+* **Department:** Artificial Intelligence & Data Science
 * **Institution:** Arya College of Engineering and IT
 * **Submitted To:** Er. Manish Dwivedi, Associate Professor
 
@@ -117,3 +117,4 @@ If you are stuck or want to see the AI work:
 <p align="center">
   Developed with ❤️ by the students of Arya College of Engineering and IT
 </p>
+
